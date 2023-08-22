@@ -1,0 +1,81 @@
+[
+  {
+    "firstName": "P",
+    "LastName": "S",
+    "department": "testing",
+    "email": "peeyushsrj@gmail.com",
+    "accessAllowed": [
+      {
+        "customerId": "5cef6ae0be741b27d5c8939f",
+        "sitesId": "5cef6b03be741b86a8c893a0",
+        "units": ["5cef6b84be741bf04dc893a1"]
+      }
+    ],
+    "phone": "999",
+    "createdAt": "2021-07-22T04:43:32.884Z",
+    "id": "61926347720ec7452672ab42",
+    "userId": "5e2c8eb506d8fb53e9e9b335",
+    "status": "Active",
+    "bu": ["power"],
+    "selectedDepartments": ["C & I"],
+    "fcmTokens": [
+      "dsYg20Z1QM23ih4AooJt6t:APA91bFVf4BXtd09tTZDGiF_5FQsie7oeIPNCkIlKtKdVNrHgfV9uBDXw8Hk6AzDbcGwPzrZGeqP0FhvnwUchp9NDuhxqlyjhs5WLIZEL2QwdQzkmBoVBnyc5jHE7XVqMaYfcfeVW8QA"
+    ],
+    "reports": [
+      {
+        "enable": false,
+        "startingAt": 1686076200000,
+        "sendAt": 7174800,
+        "lastSent": "",
+        "reportType": "boilerEvent",
+        "sendEvery": { "t": "days", "v": 1 },
+        "unitsId": "5cef6b84be741bf04dc893a1"
+      },
+      {
+        "enable": false,
+        "startingAt": 1686076200000,
+        "sendAt": 7174800,
+        "lastSent": "",
+        "reportType": "rotaryAsset",
+        "sendEvery": { "t": "days", "v": 1 },
+        "unitsId": "5cef6b84be741bf04dc893a1"
+      },
+      {
+        "enable": false,
+        "startingAt": 1686076200000,
+        "sendAt": 7174800,
+        "lastSent": "",
+        "reportType": "boilerFleet",
+        "sendEvery": { "t": "days", "v": 1 },
+        "unitsId": "5cef6b84be741bf04dc893a1"
+      },
+      {
+        "enable": false,
+        "startingAt": 1686076200000,
+        "sendAt": 7174800,
+        "lastSent": "",
+        "reportType": "performanceDeviation",
+        "sendEvery": { "t": "days", "v": 1 },
+        "unitsId": "5cef6b84be741bf04dc893a1"
+      },
+      {
+        "enable": false,
+        "startingAt": 1686076200000,
+        "sendAt": 7174800,
+        "lastSent": "",
+        "reportType": "equipmentException",
+        "sendEvery": { "t": "days", "v": 1 },
+        "unitsId": "5cef6b84be741bf04dc893a1"
+      },
+      {
+        "enable": false,
+        "startingAt": 1686076200000,
+        "sendAt": 7174800,
+        "lastSent": "",
+        "reportType": "boilerShutdown",
+        "sendEvery": { "t": "days", "v": 1 },
+        "unitsId": "5cef6b84be741bf04dc893a1"
+      }
+    ]
+  }
+]
